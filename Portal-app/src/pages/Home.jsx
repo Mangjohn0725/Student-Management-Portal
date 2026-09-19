@@ -13,7 +13,7 @@ function Home() {
           </span>
 
           <h1>
-            Manage your students
+            Manage your student
             <br />
             <span>smarter and faster.</span>
           </h1>
