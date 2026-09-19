@@ -19,7 +19,7 @@ function Home() {
           </h1>
 
           <p>
-            A modern student management portal built with React.
+            A modern student management portal built with React..
             Browse students, search records, and view detailed
             student information from one dashboard.
           </p>
